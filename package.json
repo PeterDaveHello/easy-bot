@@ -1,0 +1,24 @@
+{
+  "name": "easy-bot",
+  "description": "The easy bot for GitHub repository.",
+  "version": "0.0.0",
+  "homepage": "https://github.com/PeterDaveHello/easy-bot",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PeterDaveHello/easy-bot.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GitHub",
+    "pull request",
+    "bot"
+  ],
+  "bugs": "https://github.com/PeterDaveHello/easy-bot/issues",
+  "author": "Peter Dave Hello (https://github.com/PeterDaveHello)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.12.7"
+  }
+}
