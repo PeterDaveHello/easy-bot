@@ -1,5 +1,7 @@
 easy-bot
 ========
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/PeterDaveHello/easy-bot.svg)](https://greenkeeper.io/)
 [![Dependency Status](https://david-dm.org/PeterDaveHello/easy-bot.svg)](https://david-dm.org/PeterDaveHello/easy-bot)
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](https://github.com/cdnjs/cdnjs/blob/master/MIT-LICENSE)
 
